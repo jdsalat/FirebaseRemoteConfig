@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>image_url</key>
+        <value>http://i.imgur.com/DvpvklR.png</value>
+    </entry>
+    <entry>
+        <key>welcome_text</key>
+        <value>Welcome this is local text.</value>
+    </entry>
+</defaultsMap>

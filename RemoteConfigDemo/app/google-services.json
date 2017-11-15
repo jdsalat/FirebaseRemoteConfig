@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421092195728",
+    "firebase_url": "https://remoteconfigdemo-59aa4.firebaseio.com",
+    "project_id": "remoteconfigdemo-59aa4",
+    "storage_bucket": "remoteconfigdemo-59aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421092195728:android:5ffd0fcca692dc4f",
+        "android_client_info": {
+          "package_name": "in.blogspot.thejavedsalat.remoteconfigdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421092195728-olh86ec4keoprpd5fdg9oi4b3an39nn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.blogspot.thejavedsalat.remoteconfigdemo",
+            "certificate_hash": "7ac73269d2692495495ca5915e7280571fc1f6e4"
+          }
+        },
+        {
+          "client_id": "421092195728-6ib6h8one1go9t2e4bp762a7q69tam7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvVUUu3w44N52VdvLGwrTls69F0rECC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421092195728-6ib6h8one1go9t2e4bp762a7q69tam7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
